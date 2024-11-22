@@ -1,4 +1,5 @@
-﻿using Ejercicios.NumerosPrimos;
+﻿
+using Ejercicios.PiedraPapelTijera;
 
-var ejercicio = new NumerosPrimos();
+var ejercicio = new PiedraPapelTijera();
 ejercicio.Execute();
